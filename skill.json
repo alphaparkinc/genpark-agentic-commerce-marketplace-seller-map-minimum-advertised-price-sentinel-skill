@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-marketplace-seller-map-minimum-advertised-price-sentinel-skill",
+  "version": "1.0.0",
+  "title": "Cross-Marketplace MAP Compliance & Buy-Box Sentinel Skill",
+  "category": "Agentic Commerce (Marketplaces / Brand Protection)",
+  "description": "Scrapes multi-channel marketplace offers (Amazon, Walmart, eBay), detects unauthorized 3P sellers, hidden coupon MAP circumvention, and drafts Cease & Desist notices.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "audit_map_compliance_violations"
+  ],
+  "dependencies": []
+}
